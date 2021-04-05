@@ -1,0 +1,29 @@
+body {
+  font-family: 'Times New Roman',monospace, bold;
+  min-height: 400px;
+  background-image: url("https://d176s39pnpenan.cloudfront.net/wp-content/uploads/2020/02/conversao-de-moedas-capa.jpg");
+  background-color: black;
+  background-size: 200vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 10px;
+  height: 100vh;
+}
+
+.page-title {
+  color: black;
+  margin: 0 0 10px;
+}
+
+.page-subtitle {
+  color: black;
+  margin-top: 37px;
+  font-size: 50px;
+}
+
+
+
